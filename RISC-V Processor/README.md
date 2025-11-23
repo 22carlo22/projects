@@ -6,3 +6,4 @@ lab3 - ALU
 lab4 - Memory an Data-Path Integration
 lab5 - Control Unit Design
 lab6 - Final System Assembly; Final 32-vit CPU
+
