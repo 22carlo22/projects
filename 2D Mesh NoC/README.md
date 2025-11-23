@@ -1,0 +1,1 @@
+This project investigated, modeled, and simulated a Network-on-Chip (NoC) system using SystemC, focusing on 2D 4x4 Mesh and Torus topologies. A comprehensive performance analysis was conducted using testbenches to simulate uniform and neighbouring traffic patterns to measure average packet delay.
